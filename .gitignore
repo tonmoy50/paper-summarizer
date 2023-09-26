@@ -1,0 +1,6 @@
+# Macbook finder data
+.DS_Store
+
+# Dataset
+doc/
+*.txt
